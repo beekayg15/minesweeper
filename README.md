@@ -1,5 +1,5 @@
 # Minesweeper
-Page Deployment Link: https://barathkumarbk-15.github.io/Minesweeper
+Page Deployment Link: https://minesweeper.beekayg15.com/
 ***
 An **interactive webpage** that recreates of the primitive **Minesweeper game of Microsoft**, created using `HTML`, `CSS`, `JavaScript`, `NodeJS` and `React`.
 
